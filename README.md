@@ -47,17 +47,18 @@ Functions:
 Sound Files
 -------------------------------------
 
--sounds/blue.mp3: Sound for the blue button.
--sounds/green.mp3: Sound for the green button.
--sounds/red.mp3: Sound for the red button.
--sounds/yellow.mp3: Sound for the yellow button.
+--sounds/blue.mp3: Sound for the blue button.
+--sounds/green.mp3: Sound for the green button.
+--sounds/red.mp3: Sound for the red button.
+--sounds/yellow.mp3: Sound for the yellow button.
 -sounds/wrong.mp3: Sound for incorrect user input.
 -Setup
 
 Clone the repository:
 -------------------------------
-
-git clone https://github.com/your-username/simon-game-challenge.git
+```
+git clone https:https://github.com/VaishnaviSingh1/Simon-Game-Challange.git
+```
 
 *Ensure the sounds/ directory is in the same location as index.html.*
 *Open index.html in your web browser to start the game.*
